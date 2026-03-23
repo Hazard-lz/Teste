@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background: #f9f9f9; color: #333; margin: 0; padding: 0; }
+.container { max-width: 640px; margin: 80px auto; background: #fff; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); padding: 24px; text-align: center; }
+h1 { color: #2a6f97; }
+button { cursor: pointer; background-color: #2a6f97; color: #fff; border: none; border-radius: 4px; padding: 12px 20px; font-size: 16px; }
+button:hover { background-color: #1f5a7a; }
+#resultado { margin-top: 18px; font-size: 18px; color: #2c7a28; }
